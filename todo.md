@@ -7,3 +7,19 @@ ToDo List
 
 4.  Low level design
 
+
+
+Concept Items :
+
+Shepherd
+    shepherd :  top commander
+    shepherd command  :   send broadcasting message to sheep
+    sheep :   guide codes, tips, action items    -->  sheep (End nodes)
+    cornerstone :    set goal  as   cornerstone
+    dogs :    action process  to  guide  sheep direction
+
+    
+
+    
+
+    
