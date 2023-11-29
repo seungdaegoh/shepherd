@@ -11,17 +11,17 @@ ToDo List
 
 Concept Items :
 
-Shepherd
+- Shepherd
 
-    shepherd :  top commander
+    - shepherd :  top commander
     
-    shepherd command  :   send broadcasting message to sheep
+    - shepherd command  :   send broadcasting message to sheep
     
-    sheep :   guide codes, tips, action items    -->  sheep (End nodes)
+    - sheep :   guide codes, tips, action items    -->  sheep (End nodes)
     
-    cornerstone :    set goal  as   cornerstone
+    - cornerstone :    set goal  as   cornerstone
     
-    dogs :    action process  to  guide  sheep direction
+    - dogs :    action process  to  guide  sheep direction
 
     
 
