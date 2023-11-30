@@ -7,6 +7,9 @@ ToDo List
 
 4.  Low level design
 
+//
+//
+
 
 
 Concept Items :
@@ -15,13 +18,16 @@ Concept Items :
 
     - shepherd :  top commander
     
-    - shepherd command  :   send broadcasting message to sheep
+      + shepherd command  :   send broadcasting message to sheep
     
     - sheep :   guide codes, tips, action items    -->  sheep (End nodes)
+      + happy point :  sheep's joy
     
     - cornerstone :    set goal  as   cornerstone
     
     - dogs :    action process  to  guide  sheep direction
+      
+    - Info-hunting avian :  a bird that gathers information   --  action process for collecting information
 
     
 
