@@ -1,7 +1,8 @@
 # ToDo List
 
 1. make concept
-~~1.  define  IN / OUT~~
+
+2. ~~define  IN / OUT~~
 
 1.  design   Archtecture
 
