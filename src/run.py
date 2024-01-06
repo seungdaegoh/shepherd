@@ -15,6 +15,14 @@ if not os.path.exists('pluginsrc/dog.py'):
 
 from dog import dog_proc
 
+if not os.path.exists('pluginsrc/bird.py'):
+    print("warning: file bird.py not found")
+    sys.exit(0)
+
+from bird import bird_proc
+
 dog_proc()
+
+bird_proc()
 
 
